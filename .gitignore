@@ -3,3 +3,4 @@ downloads/
 venv/
 /temp.html
 /tayar_list.py
+__pycache__/
